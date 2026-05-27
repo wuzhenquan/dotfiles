@@ -9,3 +9,4 @@ SETUVAR --export fifc_editor:nvim
 SETUVAR fifc_keybinding:\x09
 SETUVAR fifc_man_command:apropos\x20\x2e\x20\x7c\x20awk\x20\x27\x7bprint\x20\x241\x22\x5ct\x22\x240\x7d\x27
 SETUVAR fifc_open_keybinding:ctrl\x2do
+SETUVAR fish_key_bindings:fish_default_key_bindings
