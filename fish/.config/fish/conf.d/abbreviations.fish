@@ -6,4 +6,4 @@ abbr --add gcm 'git commit -m'
 abbr --add gpo 'git push origin'
 
 abbr --add v nvim
-abbr --add lg lazygit
+abbr --add gg lazygit
